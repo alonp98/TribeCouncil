@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1490ddd-b5e5-44ce-aa81-62992b935a1a" name="Changes" comment="Cleaned up the code, 100">
+      <change beforePath="$PROJECT_DIR$/CLI.java" beforeDir="false" afterPath="$PROJECT_DIR$/CLI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MileStone3/test/CLI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MileStone3/test/CLI.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22uuuFoTYKVUOfTZVst2hpaUNBQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainTrain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MainTrain" />
+      <module name="MileStone3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTrain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1490ddd-b5e5-44ce-aa81-62992b935a1a" name="Changes" comment="" />
+      <created>1640700013487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640700013487</updated>
+      <workItem from="1640700015473" duration="7496000" />
+      <workItem from="1640765221967" duration="921000" />
+      <workItem from="1640766452911" duration="20110000" />
+      <workItem from="1640802325601" duration="482000" />
+      <workItem from="1640812912599" duration="78000" />
+      <workItem from="1640848634985" duration="38789000" />
+      <workItem from="1641119429098" duration="2017000" />
+      <workItem from="1641129504945" duration="952000" />
+      <workItem from="1641216787828" duration="27000" />
+      <workItem from="1641230274184" duration="41000" />
+      <workItem from="1641232313605" duration="827000" />
+      <workItem from="1641291617451" duration="2613000" />
+      <workItem from="1641306677691" duration="15000" />
+      <workItem from="1641309528732" duration="37000" />
+      <workItem from="1641366955368" duration="3000" />
+      <workItem from="1641376207488" duration="627000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Work On Project">
+      <created>1640708451051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640708451052</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Continued Work">
+      <created>1640796076266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640796076266</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Continued Work">
+      <created>1640810577808</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640810577808</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Continued Work">
+      <created>1640868590407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640868590407</updated>
+    </task>
+    <task id="LOCAL-00005" summary="100!!">
+      <created>1640887254105</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1640887254105</updated>
+    </task>
+    <task id="LOCAL-00006" summary="100!!">
+      <created>1640901820193</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1640901820193</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Cleaned up the code, 100">
+      <created>1640904585558</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1640904585558</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Cleaned up the code, 100">
+      <created>1640904818353</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1640904818353</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Work On Project" />
+    <MESSAGE value="Continued Work" />
+    <MESSAGE value="100!!" />
+    <MESSAGE value="Cleaned up the code, 100" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up the code, 100" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Float.parseFloat(in.readLine());" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
