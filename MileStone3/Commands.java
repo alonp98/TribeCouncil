@@ -13,7 +13,6 @@ public class Commands {
     // Default IO interface
     public interface DefaultIO {
         String readText();
-        String git = "";
 
         void write(String text);
 
